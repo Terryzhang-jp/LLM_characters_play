@@ -24,15 +24,18 @@ This project introduces a comprehensive framework for LLMs to engage in more aut
 
 Check out these video demonstrations of the framework in action:
 
-### Chinese Conversation Example
+### English Conversation Example
 <video width="100%" controls>
-  <source src="videos/LLM_conversion_example_zh.mp4" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/85517663-b94a-4bf4-945c-8a947a668f89" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-You can also find additional examples here:
-- [English Conversation Example](https://drive.google.com/file/d/1bN6-IMUEButwgXVk0RbL9Kr2YEcZj-dC/view?usp=sharing)
-- [Alternative Chinese Conversation Example](https://drive.google.com/file/d/1kJqJp278YvEAwcQGaK6KixrC3JfO89Dc/view?usp=sharing)
+### Chinese Conversation Example
+<video width="100%" controls>
+  <source src="https://github.com/user-attachments/assets/faa8f6ea-7d79-4762-8d3f-159d185941cd" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ## Getting Started
 
