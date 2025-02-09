@@ -25,7 +25,9 @@ This project introduces a comprehensive framework for LLMs to engage in more aut
 Check out these video demonstrations of the framework in action:
 
 - [English Conversation Example](https://drive.google.com/file/d/1bN6-IMUEButwgXVk0RbL9Kr2YEcZj-dC/view?usp=sharing)
-- [Chinese Conversation Example](https://drive.google.com/file/d/1kJqJp278YvEAwcQGaK6KixrC3JfO89Dc/view?usp=sharing)
+- Chinese Conversation Example:
+  - [Online Version](https://drive.google.com/file/d/1kJqJp278YvEAwcQGaK6KixrC3JfO89Dc/view?usp=sharing)
+  - Local Version: [videos/LLM_conversion_example_zh.mp4](videos/LLM_conversion_example_zh.mp4)
 
 These videos showcase how the framework enables natural and engaging character interactions in different languages.
 
