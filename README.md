@@ -25,16 +25,13 @@ This project introduces a comprehensive framework for LLMs to engage in more aut
 Check out these video demonstrations of the framework in action:
 
 ### English Conversation Example
-<video width="100%" controls>
-  <source src="https://github.com/user-attachments/assets/85517663-b94a-4bf4-945c-8a947a668f89" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/85517663-b94a-4bf4-945c-8a947a668f89
+
 
 ### Chinese Conversation Example
-<video width="100%" controls>
-  <source src="https://github.com/user-attachments/assets/faa8f6ea-7d79-4762-8d3f-159d185941cd" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/faa8f6ea-7d79-4762-8d3f-159d185941cd
 
 
 ## Getting Started
